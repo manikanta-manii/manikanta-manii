@@ -1,8 +1,7 @@
-<html>
-  <body><img align="right"src="[https://i.gifer.com/NdT0.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FNdT0&psig=AOvVaw37nfhqHbolJwhgGYYd8Q5g&ust=1678885354650000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPiOwrq92_0CFQAAAAAdAAAAABAE)" alt="oreki">
-</body>
-</html>
+![NdT0](https://user-images.githubusercontent.com/113213995/225011093-a3d696d1-d351-4e27-b7a7-2e55a956e7a9.gif)
+
 <!---
 manikanta-manii/manikanta-manii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the![NdT0](https://user-images.githubusercontent.com/113213995/225011062-2c9049cf-6feb-4f3d-953d-0cb0aaaa83ca.gif)
+ Preview link to take a look at your changes.
 --->
