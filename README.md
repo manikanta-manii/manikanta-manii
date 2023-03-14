@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @manikanta-manii
-- 👀 I’m interested in Developing New Skills
-- 🌱 I’m currently learning M E R N
-- 📫 How to reach me ... mail @ manikantap036@gmail.com
+<img src="https://i.gifer.com/NdT0.gif" alt="oreki">
 
 <!---
 manikanta-manii/manikanta-manii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
